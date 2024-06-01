@@ -47,7 +47,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. **Clone the repository**:
     ```sh
-    git clone [https://github.com/yourusername/crewai-multi-agent-blog.git](https://github.com/hargurjeet/crewai/tree/main)
+    git clone https://github.com/hargurjeet/crewai/tree/main
     cd crewai-multi-agent-blog
     ```
 
